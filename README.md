@@ -1,16 +1,5 @@
 # pulmonary-artery-segmentation-3d-reconstruction
 Deep learning pipeline for pulmonary artery segmentation, 3D reconstruction, and hemodynamic simulation for personalized stent planning.
-A topology-aware, deep learning–driven computational pipeline for pulmonary artery stenosis assessment, integrating:
-
-Deep learning medical image segmentation
-
-Topology-preserving 3D vascular reconstruction
-
-CFD-based hemodynamic simulation
-
-Personalized stent dimensioning and treatment planning
-
-This project provides a reproducible end-to-end workflow for 3D vascular modeling, hemodynamic analysis, and interventional planning in patients with pulmonary artery stenosis.
 
 🚀 Features
 
